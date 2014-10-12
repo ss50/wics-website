@@ -78,3 +78,8 @@ body{
 	text-align: center;
 	margin-top: -50px;
 }
+
+.general_desc {
+	font-size: 20px;
+	text-align: left;
+}
