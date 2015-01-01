@@ -1,0 +1,24 @@
+* {
+	margin: 0px;
+	background: none;
+	padding: 0px;
+}
+
+body {
+	background-color: #3366CC;
+	width: 80%;
+	height: 50%;
+	margin-left: 20%;
+
+}
+.info_text {
+	background-position: center;
+	background-color: #E80000;
+	height: 100%;
+	font-size: 20px;
+	padding-left: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-right: 5%;
+	font-family: sourceSans, sans-serif;
+}

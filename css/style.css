@@ -9,12 +9,13 @@ body{
 
 #nav{
 	float: left;
-	width: 200px;
+	width: 220px;
 	height:100%;
 	background-color: #ff7f50;
 	position: fixed;
 	padding-left: 0px;
 	padding-top: 0px;
+	
 }
 
 #wics_title{
@@ -83,3 +84,72 @@ body{
 	font-size: 20px;
 	text-align: left;
 }
+
+#mentor-page {
+	float: right;
+}
+
+#title {
+	font-size: 30px;
+	margin-left: -25%;
+}
+
+#mentor-1 {
+	height: 200px;
+	width: 500px;
+	border: 1px solid black;
+	margin-left: -105%;
+	
+	
+}
+
+#mentor-2 {
+	height: 200px;
+	width: 500px;
+	border: 1px solid black;
+	margin-left: 0%;
+	margin-top: -40.5%;
+}
+
+
+
+#mentor-right {
+	height: 200px;
+	width: 500px;
+	border: 1px solid black;
+	margin-left: 0%;
+	position: relative;
+	margin-top: -40.5%;
+}
+
+
+#mentor-left {
+	height: 200px;
+	width: 500px;
+	border: 1px solid black;
+	margin-left: -105%;
+	margin-top: 10%;
+}
+
+#pic {
+	height: 200px;
+	width: 150px;
+
+}
+
+#mentor-info-left {
+	float: right;
+	margin-top: -42%;
+	margin-right: 17%;
+	height: 224px;
+	width: 248px;
+}
+
+#mentor-info-right {
+	float: right;
+	margin-top: -45%;
+	margin-right: 17%;
+	height: 224px;
+	width: 248px;
+}
+
